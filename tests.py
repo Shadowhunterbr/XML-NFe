@@ -8,7 +8,7 @@ from zeep.transports import Transport
 
 
 WS_URL = "https://nfe.fazenda.gov.br/NFeDistribuicaoDFe/NFeDistribuicaoDFe.asmx?wsdl"
-
+    #https://hom.nfe.fazenda.gov.br/NFeDistribuicaoDFe/NFeDistribuicaoDFe.asmx?wsdl
 CERTIFICADO = "certificado.pfx"
 SENHA_CERTIFICADO = "sua_senha"
 
